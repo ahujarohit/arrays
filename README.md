@@ -45,4 +45,3 @@ By the end of this series, you'll have a solid grasp of arrays, command line arg
 
 Don't forget to like, subscribe, and hit the notification bell to stay updated with the latest videos. Let's get started on your journey to mastering Java!
 
-)
